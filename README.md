@@ -48,7 +48,3 @@ This is a makefile of webpack project, I use it instead of gulp/grunt and simila
 If the hash was changed (project was modified), return an argument that _make_ will use to decide if it is electron or not, and rebuild the project before running electron. If not, just run electron.
 
 Thats it I will be adding more with time.
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/fs3bBt7nP9jn4VLgZERmuNMy/Kuchiriel/useful-scripts'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/fs3bBt7nP9jn4VLgZERmuNMy/Kuchiriel/useful-scripts.svg' />
-</a>
